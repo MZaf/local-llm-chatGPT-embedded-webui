@@ -1,5 +1,5 @@
 # ChatGPT-embeded-webui App
-ChatGPT AI App using React, JavaScript, Embedding chatGPT API Access in your own website using OpenAi API_KEY. 
+ChatGPT API access from your webUI, using React, JavaScript, Embedding ChatGPT API Access in your own website using OpenAi API_KEY. 
 
 Model used `text-davinci-003` 
 
@@ -18,7 +18,7 @@ npm install openai
 npm install
 npm start
 ```
+In Browser, open http://localhost:3000/  
+Enter your prompt instruction.
 
-
-
- 
+Hit Generate Button to get ChatGPT response via API.
