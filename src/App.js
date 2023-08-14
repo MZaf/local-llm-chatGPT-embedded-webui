@@ -30,7 +30,7 @@ function App() {
     
   return (
     <div className="App">
-      {/* <header className="App-header">
+      <header className="App-header">
         <p>
           Embed ChatGPT <code></code> web UI Prompt and Generated results.
         </p>
@@ -42,16 +42,16 @@ function App() {
         >
           See More Services provided By Falcon AI Technologies.
         </a>
-      </header> */}
+      </header>
       <div>
         <textarea 
           value={ prompt}
           placeholder = "Ask any thing"
           onChange={(e)=>(setPrompt(e.target.value))}
-          name="" id="" cols="30" rows="10">
+          name="" id="" cols="80" rows="10">
         </textarea>
         <button onClick ={handleChange}>
-          {loading ? 'Generating...' : 'Generated'}
+          {loading ? 'Generating...' : 'Generate'}
         </button>
         <div> 
           <p>{result} </p> 
