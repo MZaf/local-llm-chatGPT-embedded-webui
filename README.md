@@ -1,5 +1,5 @@
 # ChatGPT-embeded-webui App
-ChatGPT AI App using React JavaScript to Embedding chatGPT API Access in your own website using OpenAi API_KEY. 
+ChatGPT AI App using React, JavaScript, Embedding chatGPT API Access in your own website using OpenAi API_KEY. 
 
 Model used `text-davinci-003` 
 
