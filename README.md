@@ -12,7 +12,10 @@ npm install openai
 ### Create .env file for OpenAI API_KEY
 
 - Get API key from https://platform.openai.com/account/api-keys after signup on OpenAI 
+- Generate and copy OpenAI API KEY
 - In React App project folder add `.env file` and add variable `REACT_APP_OPENAI_API_KEY= <insert your OpenAI API_KEY>`
+
+You can rename the `.env-example` file to `.env` and add your `OpenAI API KEY`
 
 ```
 npm install
