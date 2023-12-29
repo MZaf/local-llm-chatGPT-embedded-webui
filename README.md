@@ -6,7 +6,7 @@ Model used `text-davinci-003`
 ## Steps
 ```
 git clone https://github.com/MZaf/local-llm-chatGPT-embedded-webui.git
-cd chatGPT-embeded-webui
+cd local-llm-chatGPT-embedded-webui
 npm install openai
 ```
 ### Create .env file for OpenAI API_KEY
