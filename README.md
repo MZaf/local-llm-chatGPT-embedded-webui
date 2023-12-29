@@ -5,7 +5,7 @@ Model used `text-davinci-003`
 
 ## Steps
 ```
-git clone https://github.com/MZaf/chatGPT-embeded-webui.git
+git clone https://github.com/MZaf/local-llm-chatGPT-embedded-webui.git
 cd chatGPT-embeded-webui
 npm install openai
 ```
